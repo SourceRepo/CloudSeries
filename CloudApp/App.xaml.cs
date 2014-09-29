@@ -8,6 +8,7 @@ using System.Windows;
 
 namespace CloudApp
 {
+    /// testes GG
     /// <summary>
     /// Interaction logic for App.xaml
     /// </summary>
